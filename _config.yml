@@ -30,7 +30,7 @@ social:
     github: aner1001
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: 549d6fc5192b
     # twitter:
     mail: 584856024@qq.com
 
@@ -75,7 +75,6 @@ nav:
     - {title: 所有文章, description: archive, url: '/archive'}
     - {title: 标签, description: tags, url: '/tags'}
     - {title: 分类, description: tags, url: '/categories'}
-    - {title: 技术支持, description: support, url: '/support'}
     - {title: 关于我, description: about, url: '/about'}
 
 
