@@ -6,16 +6,23 @@ description: TangTang~
 avatarTitle: tyf
 # 头像里面的描述
 avatarDesc: Java / 并发学习
-url: "https://aner1001.github.io/blog/"
+url: "https://aner1001.github.io/"
 
 # 博客是否自动生成目录，false为不生成
-enableToc: true
+enableToc: flase
 
 # Comment
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: leopard
+    #disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
+    gitalk: 3c7bd48b13ee9891fa67
+      #clientID: 3c7bd48b13ee9891fa67
+      #clientSecret: a45012b80faa3860d458c466f2e8c4e9ac11fd8e
+      #repo: aner1001.github.io
+      #owner: 汤晔飞
+      #admin: ['aner1001']
+
 
 # Social
 social:

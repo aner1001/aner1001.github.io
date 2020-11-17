@@ -20,13 +20,13 @@
   {% elsif site.comment.disqus %}
     <div id="disqus_thread"></div>
     <script>
-    
+
     var disqus_config = function () {
         this.page.url = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
         this.page.identifier = "{{ page.url }}";
     };
     var disqus_shortname = '{{ site.comment.disqus }}';
-    
+
     (function() { // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
         s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
@@ -35,7 +35,25 @@
         })();
     </script>
     <noscript>要查看<a href="http://disqus.com/?ref_noscript"> Disqus </a>评论，请启用 JavaScript</noscript>
-    
+
+  {% elsif site.comment.gitalk %}
+
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+    <div id="gitalk-container"></div>
+    <script type="text/javascript">
+      var gitalk = new Gitalk({
+      // gitalk的主要参数
+      clientID: `3c7bd48b13ee9891fa67`,   //上面获取到的值
+      clientSecret: `a45012b80faa3860d458c466f2e8c4e9ac11fd8e`,//上面获取到的值
+      repo: `aner1001.github.io`,  //您刚才建立仓库的名字
+      owner: 'aner1001',   //你的GitHub用户名字
+      admin: ['aner1001'],  //你的GitHub用户的名字
+      id: 'indow.location.pathname', //id不能重复，如果重复就会把其他页面的评论引进来
+          });
+        gitalk.render('gitalk-container');
+    </script>
+
   {% endif %}
 
 </section>
