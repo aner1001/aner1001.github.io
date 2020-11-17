@@ -44,12 +44,13 @@
     <script type="text/javascript">
       var gitalk = new Gitalk({
       // gitalk的主要参数
-      clientID: `3c7bd48b13ee9891fa67`,   //上面获取到的值
-      clientSecret: `a45012b80faa3860d458c466f2e8c4e9ac11fd8e`,//上面获取到的值
-      repo: `aner1001.github.io`,  //您刚才建立仓库的名字
-      owner: 'aner1001',   //你的GitHub用户名字
-      admin: ['aner1001'],  //你的GitHub用户的名字
+      clientID: '{{ site.comment.gitalk.clientID}}',   //上面获取到的值
+      clientSecret: '{{ site.comment.gitalk.clientSecret}}',//上面获取到的值
+      repo: '{{ site.comment.gitalk.repo}}',  //您刚才建立仓库的名字
+      owner: '{{ site.comment.gitalk.owner}}',   //你的GitHub用户名字
+      admin: '{{ site.comment.gitalk.admin}}',  //你的GitHub用户的名字
       id: 'indow.location.pathname', //id不能重复，如果重复就会把其他页面的评论引进来
+      distractionFreeMode: true //类似Facebook评论框的全屏遮罩效果.
           });
         gitalk.render('gitalk-container');
     </script>

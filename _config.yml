@@ -16,12 +16,12 @@ comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
     #disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
-    gitalk: 3c7bd48b13ee9891fa67
-      #clientID: 3c7bd48b13ee9891fa67
-      #clientSecret: a45012b80faa3860d458c466f2e8c4e9ac11fd8e
-      #repo: aner1001.github.io
-      #owner: 汤晔飞
-      #admin: ['aner1001']
+    gitalk:
+       clientID: 3c7bd48b13ee9891fa67
+       clientSecret: a45012b80faa3860d458c466f2e8c4e9ac11fd8e
+       repo: aner1001.github.io
+       owner: aner1001
+       admin: ['aner1001']
 
 
 # Social
