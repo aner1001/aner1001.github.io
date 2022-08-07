@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tang&#39;s blog.</title>
+  <icon>http://aner1001.gitee.io/icon.png</icon>
+  <subtitle>Tang</subtitle>
+  <link href="http://aner1001.gitee.io/atom.xml" rel="self"/>
+  
+  <link href="http://aner1001.gitee.io/"/>
+  <updated>2022-01-31T01:53:06.000Z</updated>
+  <id>http://aner1001.gitee.io/</id>
+  
+  <author>
+    <name>汤晔飞</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>洗车</title>
+    <link href="http://aner1001.gitee.io/posts/2022/01/31/0493f7c5a2da/"/>
+    <id>http://aner1001.gitee.io/posts/2022/01/31/0493f7c5a2da/</id>
+    <published>2022-01-31T01:53:06.000Z</published>
+    <updated>2022-01-31T01:53:06.000Z</updated>
+    
+    
+    <summary type="html">他人洗车不可靠！喜欢的车子自己洗！</summary>
+    
+    
+    
+    <category term="生活知识" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="经验感悟" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/%E7%BB%8F%E9%AA%8C%E6%84%9F%E6%82%9F/"/>
+    
+    
+    <category term="车" scheme="http://aner1001.gitee.io/tags/%E8%BD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>泥小子帕萨特</title>
+    <link href="http://aner1001.gitee.io/posts/2022/01/23/b5e949dd3b2c/"/>
+    <id>http://aner1001.gitee.io/posts/2022/01/23/b5e949dd3b2c/</id>
+    <published>2022-01-23T13:49:20.000Z</published>
+    <updated>2022-01-23T13:49:20.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;新车记录一些需要提升的地方。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="生活知识" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="宠物" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/%E5%AE%A0%E7%89%A9/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《心流》——米哈里·契克森米哈赖</title>
+    <link href="http://aner1001.gitee.io/posts/2021/10/13/a46f0229c79a/"/>
+    <id>http://aner1001.gitee.io/posts/2021/10/13/a46f0229c79a/</id>
+    <published>2021-10-13T13:45:59.000Z</published>
+    <updated>2021-10-13T13:45:59.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;心流不是鸡汤，而是让你保持专注高效、幸福感翻倍的科学。📖&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="生活知识" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="读书笔记" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>开车技巧</title>
+    <link href="http://aner1001.gitee.io/posts/2021/10/07/79305d637a9e/"/>
+    <id>http://aner1001.gitee.io/posts/2021/10/07/79305d637a9e/</id>
+    <published>2021-10-07T01:41:52.000Z</published>
+    <updated>2021-10-07T01:41:52.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;p&gt;反应要快，长得要帅！思路要清晰！&lt;br&gt;
+开车🚗技术只是一个基础，意识才是关键。&lt;/p&gt;
+&lt;h2 id=&quot;新手注意&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生活知识" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="经验感悟" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/%E7%BB%8F%E9%AA%8C%E6%84%9F%E6%82%9F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SSMS使用笔记</title>
+    <link href="http://aner1001.gitee.io/posts/2021/08/24/6d1095d31093/"/>
+    <id>http://aner1001.gitee.io/posts/2021/08/24/6d1095d31093/</id>
+    <published>2021-08-24T22:50:05.000Z</published>
+    <updated>2021-08-24T22:50:05.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;管理SQLServer数据库工具。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="数据库" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="SQLServer" scheme="http://aner1001.gitee.io/tags/SQLServer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>糖醋排骨</title>
+    <link href="http://aner1001.gitee.io/posts/2021/08/23/e16d4931f904/"/>
+    <id>http://aner1001.gitee.io/posts/2021/08/23/e16d4931f904/</id>
+    <published>2021-08-23T11:43:28.000Z</published>
+    <updated>2021-08-23T11:43:28.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h2 id=&quot;准备材料&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#准备材料&quot;&gt;☀&lt;/a&gt;准备材料&lt;/h2&gt;
+&lt;h3 id=&quot;肋排&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生活知识" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="做饭" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/%E5%81%9A%E9%A5%AD/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>回锅肉</title>
+    <link href="http://aner1001.gitee.io/posts/2021/08/22/e7a43e4c7dbe/"/>
+    <id>http://aner1001.gitee.io/posts/2021/08/22/e7a43e4c7dbe/</id>
+    <published>2021-08-22T00:00:51.000Z</published>
+    <updated>2021-08-22T00:00:51.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;回锅肉的制作攻略。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="生活知识" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="做饭" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/%E5%81%9A%E9%A5%AD/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>游泳</title>
+    <link href="http://aner1001.gitee.io/posts/2021/08/15/e23f4735ce72/"/>
+    <id>http://aner1001.gitee.io/posts/2021/08/15/e23f4735ce72/</id>
+    <published>2021-08-15T11:11:33.000Z</published>
+    <updated>2021-08-15T11:11:33.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;游泳技巧学习。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="生活知识" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="经验感悟" scheme="http://aner1001.gitee.io/categories/%E7%94%9F%E6%B4%BB%E7%9F%A5%E8%AF%86/%E7%BB%8F%E9%AA%8C%E6%84%9F%E6%82%9F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>eclipse使用笔记</title>
+    <link href="http://aner1001.gitee.io/posts/2021/08/03/e00a42073909/"/>
+    <id>http://aner1001.gitee.io/posts/2021/08/03/e00a42073909/</id>
+    <published>2021-08-03T19:00:42.000Z</published>
+    <updated>2021-08-03T19:00:42.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Eclipse快速入门(常见设置,快捷键,调试技巧)&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="工具" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="eclipse" scheme="http://aner1001.gitee.io/tags/eclipse/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows系统重装</title>
+    <link href="http://aner1001.gitee.io/posts/2021/07/28/f3e01b384e12/"/>
+    <id>http://aner1001.gitee.io/posts/2021/07/28/f3e01b384e12/</id>
+    <published>2021-07-28T07:53:27.000Z</published>
+    <updated>2021-07-28T07:53:27.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;记录重装Window10系统的过程，和使用工具。需要安装的软件备份。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="工具" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="windows" scheme="http://aner1001.gitee.io/tags/windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis学习笔记</title>
+    <link href="http://aner1001.gitee.io/posts/2021/07/10/10f923e8abfb/"/>
+    <id>http://aner1001.gitee.io/posts/2021/07/10/10f923e8abfb/</id>
+    <published>2021-07-10T13:33:53.000Z</published>
+    <updated>2021-07-10T13:33:53.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;计算机就是数据结构和算法.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="数据库" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="Redis" scheme="http://aner1001.gitee.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Protostuff与Jedis工具类</title>
+    <link href="http://aner1001.gitee.io/posts/2021/07/09/ce7f3937fcde/"/>
+    <id>http://aner1001.gitee.io/posts/2021/07/09/ce7f3937fcde/</id>
+    <published>2021-07-09T01:31:45.000Z</published>
+    <updated>2021-07-09T01:31:45.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Redis有很多数据结构：string、hash、list、set等，但是在实际来发中，我们往往保存的是对象在redis中，所以键值对更加常用。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="数据库" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="Redis" scheme="http://aner1001.gitee.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo搭建个人博客</title>
+    <link href="http://aner1001.gitee.io/posts/2021/06/05/fe58c35af835/"/>
+    <id>http://aner1001.gitee.io/posts/2021/06/05/fe58c35af835/</id>
+    <published>2021-06-05T07:11:56.000Z</published>
+    <updated>2021-06-05T07:11:56.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本人的博客最终选择了Hexo，原因：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;强大的社区，基本什么问题都能查到，网上各种主题模板资料很全，各种QQ群一起high，讨论。&lt;/li&gt;
+&lt;li&gt;插件功能强大，技术成熟，使用起来很方便，从而封装性很好。&lt;/li&gt;
+&lt;li&gt;也能使用自动化部署技术GitHubActions或者TravisCi技术,弥补了相对于Jekyll博客能在Github自动部署的缺点。&lt;/li&gt;
+&lt;li&gt;使用Hexo能让你学习到很多东西。例如git知识、自动化部署等、第三方工具、在线编辑、云等等。&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="脚本" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="Hexo" scheme="http://aner1001.gitee.io/tags/Hexo/"/>
+    
+    <category term="Nodejs" scheme="http://aner1001.gitee.io/tags/Nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ruby环境搭建篇(Jekyll博客)</title>
+    <link href="http://aner1001.gitee.io/posts/2021/05/29/a4740947d4f3/"/>
+    <id>http://aner1001.gitee.io/posts/2021/05/29/a4740947d4f3/</id>
+    <published>2021-05-29T05:36:49.000Z</published>
+    <updated>2021-05-29T05:36:49.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Jekyll博客基于Ruby开发，需要安装Ruby开发和运行环境。&lt;br&gt;
+本篇介绍Ruby和Ruby环境搭建。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="脚本" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="Ruby" scheme="http://aner1001.gitee.io/tags/Ruby/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jekyll和GitHubPages搭建个人博客</title>
+    <link href="http://aner1001.gitee.io/posts/2021/05/29/ca816c779a77/"/>
+    <id>http://aner1001.gitee.io/posts/2021/05/29/ca816c779a77/</id>
+    <published>2021-05-29T05:36:49.000Z</published>
+    <updated>2021-05-29T05:36:49.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文介绍Jekyll的安装和基本使用。&lt;br&gt;
+最后本人选择了hexo搭建博客，具体原因请看hexo搭建篇。&lt;br&gt;
+Jekyll博客我参照B站Up主，制作了在线简历，同样很棒！参考&lt;a href=&quot;https://aner1001.gitee.io/resume/&quot;&gt;简历&lt;/a&gt;，下方有视频连接可以学习。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="脚本" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="Ruby" scheme="http://aner1001.gitee.io/tags/Ruby/"/>
+    
+    <category term="Jekyll" scheme="http://aner1001.gitee.io/tags/Jekyll/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nodejs环境搭建</title>
+    <link href="http://aner1001.gitee.io/posts/2021/05/25/5acb08517bd6/"/>
+    <id>http://aner1001.gitee.io/posts/2021/05/25/5acb08517bd6/</id>
+    <published>2021-05-25T07:09:44.000Z</published>
+    <updated>2021-05-25T07:09:44.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文介绍：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;nodejs环境的搭建。&lt;/li&gt;
+&lt;li&gt;nvm工具管理nodejs版本的使用。&lt;/li&gt;
+&lt;li&gt;npm包管理工具的使用以及命令。&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="脚本" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E8%84%9A%E6%9C%AC/"/>
+    
+    
+    <category term="Nodejs" scheme="http://aner1001.gitee.io/tags/Nodejs/"/>
+    
+    <category term="nvm" scheme="http://aner1001.gitee.io/tags/nvm/"/>
+    
+    <category term="npm" scheme="http://aner1001.gitee.io/tags/npm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx学习笔记</title>
+    <link href="http://aner1001.gitee.io/posts/2021/05/13/fa918a90eed5/"/>
+    <id>http://aner1001.gitee.io/posts/2021/05/13/fa918a90eed5/</id>
+    <published>2021-05-13T12:20:37.000Z</published>
+    <updated>2021-05-13T12:20:37.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Nginx主要用于1. 静态资源服务器，2. 反向代理，3. 负载均衡，本文主要围绕这三块进行描述。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="中间件" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+    
+    <category term="Nginx" scheme="http://aner1001.gitee.io/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GoogleAnalytics</title>
+    <link href="http://aner1001.gitee.io/posts/2021/05/04/3c666189d167/"/>
+    <id>http://aner1001.gitee.io/posts/2021/05/04/3c666189d167/</id>
+    <published>2021-05-04T00:48:11.000Z</published>
+    <updated>2021-05-04T00:48:11.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;记录谷歌分析工具的使用(✪ω✪)。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="工具" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="Google" scheme="http://aner1001.gitee.io/tags/Google/"/>
+    
+    <category term="GoogleAnalytics" scheme="http://aner1001.gitee.io/tags/GoogleAnalytics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建个人图床</title>
+    <link href="http://aner1001.gitee.io/posts/2021/05/03/3893ce8c324a/"/>
+    <id>http://aner1001.gitee.io/posts/2021/05/03/3893ce8c324a/</id>
+    <published>2021-05-03T23:47:18.000Z</published>
+    <updated>2021-05-03T23:47:18.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;介绍了PicGo工具的使用，图床的选择，和CDN.jsDelivr加速的使用方法。Typroa中如何配置使用的办法。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="工具" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="GitHub" scheme="http://aner1001.gitee.io/tags/GitHub/"/>
+    
+    <category term="PicGo" scheme="http://aner1001.gitee.io/tags/PicGo/"/>
+    
+    <category term="jsDelivr" scheme="http://aner1001.gitee.io/tags/jsDelivr/"/>
+    
+    <category term="GitHubPages" scheme="http://aner1001.gitee.io/tags/GitHubPages/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>跨域解决方案</title>
+    <link href="http://aner1001.gitee.io/posts/2021/05/03/ec8e6e150ef7/"/>
+    <id>http://aner1001.gitee.io/posts/2021/05/03/ec8e6e150ef7/</id>
+    <published>2021-05-03T13:36:43.000Z</published>
+    <updated>2021-05-03T13:36:43.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;跨域相关的概念、造成跨域的原因、以及9大解决跨域的方案。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术知识" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="Web" scheme="http://aner1001.gitee.io/categories/%E6%8A%80%E6%9C%AF%E7%9F%A5%E8%AF%86/Web/"/>
+    
+    
+    <category term="跨域" scheme="http://aner1001.gitee.io/tags/%E8%B7%A8%E5%9F%9F/"/>
+    
+  </entry>
+  
+</feed>
